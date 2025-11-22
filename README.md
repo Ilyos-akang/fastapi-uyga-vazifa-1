@@ -17,7 +17,7 @@ Bu kichik FastAPI loyihasi quyidagi endpointlarga ega:
 
 Quyidagi video orqali loyiha qanday ishlashini ko'rishingiz mumkin:
 
-![video](./video.mp4)
+![Untited image](./Untitled.png)
 
 ------------------------------------------------------------------------
 
